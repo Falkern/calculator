@@ -1,3 +1,3 @@
-# Calculator
-
-A simple calculator made using [solidity](https://github.com/ethereum/solidity)
+# SolAUTH
+Decentralized identity verification system made using [solidity](https://github.com/ethereum/solidity).<br>
+Still under development
